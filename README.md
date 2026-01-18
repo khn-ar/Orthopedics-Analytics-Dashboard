@@ -1,5 +1,10 @@
 # Orthopedics Analytics Dashboard
 
+## Download File:
+- Download the .xlsx file
+- Open on Excel
+- Navigate to 'Dashboard' tab
+
 ## File includes:
 
 - Dashboard
